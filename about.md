@@ -13,3 +13,4 @@ redirect_from:
 
 <!--author-->
 
+[Resume](./assets/Yijin_CV.pdf)
