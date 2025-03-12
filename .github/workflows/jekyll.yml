@@ -16,7 +16,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04-x64  # Use the self-hosted runner here
+    runs-on: ubuntu-latest  # Use the self-hosted runner here
     steps:
       - name: Checkout
         uses: actions/checkout@v4
